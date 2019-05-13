@@ -1,0 +1,4 @@
+awa,sall,5655222233,thiaroye,admin,Bloquer,1280
+mame,mame,774667906,guediawaye,admin,Bloquer,1280
+amima,gueye,774667906,guediawaye,User,Bloquer,1280
+tamara,ba,777010164,guediawaye,User,Bloquer,test

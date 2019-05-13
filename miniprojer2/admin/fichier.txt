@@ -1,0 +1,3 @@
+sall,awa,mohamed,admin
+ndao,ndao,ibou,utilisateur
+mbacke,khadim,bamba,admin
